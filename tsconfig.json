@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"alwaysStrict": true,
+		"module": "nodenext",
+		"moduleResolution": "nodenext",
+		"target": "esnext",
+		"skipDefaultLibCheck": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"forceConsistentCasingInFileNames": true
+	}
+}
